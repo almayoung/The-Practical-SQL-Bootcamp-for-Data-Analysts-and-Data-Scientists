@@ -1,4 +1,4 @@
---WEEK 2 CHALLENGE : LIMIT AND ORDER BY STATEMENTS
+-- WEEK 2 CHALLENGE : LIMIT AND ORDER BY STATEMENTS
 
 /*1.Provide a list of the 5 shortest films with “G” rating and rental rates ranging from 2.99 to 4.99. 
 Show their film ID and title. */
