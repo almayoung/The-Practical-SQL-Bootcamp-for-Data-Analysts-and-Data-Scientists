@@ -1,4 +1,4 @@
---WEEK 1 CHALLENGE
+-- WEEK 1 CHALLENGE : BASIC SQL STATEMENTS
 
 /*1. Provide a list of films (their titles, film IDs and ratings) that are NOT rated NC-17.*/
 
