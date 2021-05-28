@@ -28,8 +28,7 @@ WHERE city ILIKE '%gas%' OR
 	  city ILIKE '%him%'
 ORDER BY country_id DESC;
 
-/*4. Show the address details of customers whose phone numbers end with “10”, 
-arranged by city ID where	they	live	(in	ascending	order).	Retrieve the address column	only.*/
+/*4. Show the address details of customers whose phone numbers end with “10”, arranged by city ID where they live (in ascending order). Retrieve the address column only.*/
 
 SELECT address
 FROM address
@@ -39,9 +38,6 @@ ORDER BY city_id;
 /*5. The manager asks for a sample of 10 payment transactions (of no particular order) 
 that occurred between 8:00:00 AND 17:00:00 on February 16, 2007 in the amount of either 0.99, 4.99 or 8.99. 
 Hint: Refer to payment table. You may retrieve all attribute */
--- SELECT *
--- FROM payment
--- WHERE staff_id = 1 AND amount IN (0.99, 2.99);
 
 SELECT *
 FROM payment
