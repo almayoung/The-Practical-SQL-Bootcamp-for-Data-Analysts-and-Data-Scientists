@@ -24,6 +24,7 @@ ORDER BY payment_date DESC;
 
 /*3. Produce a table showing the film ID, title, category name (renamed as category)
 and inventory ID of films that do not have any inventory. */
+
 SELECT f.film_id, title, name as category, inventory_id
 FROM category c
 JOIN film_category fc
