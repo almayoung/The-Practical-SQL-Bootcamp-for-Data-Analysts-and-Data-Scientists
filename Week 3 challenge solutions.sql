@@ -1,4 +1,4 @@
--- WEEK 3 CHALLENGE JOINING MULTIPLE TABLES
+-- WEEK 3 CHALLENGE: JOINING MULTIPLE TABLES
 
 /*1. Find the top 10 customers who paid the most in a single transaction. Show their customer ID, first name, last name and 
 amount paid. Sort the results by amount paid (highest on top) and by customer ID. */
